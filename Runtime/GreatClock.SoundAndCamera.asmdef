@@ -1,0 +1,16 @@
+{
+    "name": "GreatClock.SoundAndCamera",
+    "references": [
+        "GreatClock.Utils.Tools",
+        "GreatClock.Utils.Timer",
+        "GreatClock.Tweens"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

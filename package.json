@@ -1,0 +1,27 @@
+{
+  "displayName": "Sound & Camera",
+  "name": "com.greatclock.soundandcamera",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Sound and camera controls for game development.",
+  "type": "library",
+  "dependencies": {
+    "com.greatclock.tweens": "1.0.0",
+    "com.greatclock.utils": "1.0.0"
+  },
+  "keywords": [
+    "sound",
+    "camera",
+    "audio",
+    "mixer",
+    "sfx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegreatclock/sound_and_camera.git"
+  },
+  "author": {
+    "name": "greatclock",
+    "email": "thegreatclock@hotmail.com"
+  }
+}

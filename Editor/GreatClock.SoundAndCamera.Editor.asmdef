@@ -1,0 +1,16 @@
+{
+    "name": "GreatClock.SoundAndCamera.Editor",
+    "references": [
+        "GreatClock.SoundAndCamera"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
